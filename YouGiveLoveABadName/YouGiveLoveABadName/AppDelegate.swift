@@ -15,6 +15,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        
+        UIView.animateWithDuration(5, animations: { 
+            // animation code here
+            }) { _  in
+                //hi
+        }
+        
+        // animateWithDuration(_:animations:completion:)
         // Override point for customization after application launch.
         return true
     }
