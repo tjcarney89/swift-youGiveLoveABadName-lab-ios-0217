@@ -10,9 +10,7 @@ Keyframes allow for an animation to have multiple steps (or frames). Each keyfra
 
 This is your goal:
 
-![Animation](https://ironboard-curriculum-content.s3.amazonaws.com/iOS/objc-YouGiveLoveABadName/animation.gif)
-
-[You'll need UIKeyFrameAnimations](http://www.shinobicontrols.com/blog/posts/2013/10/04/ios7-day-by-day-day-11-uiview-key-frame-animations)
+![Animation](https://s3.amazonaws.com/learn-verified/animation-bounce-effect.gif)
 
 You'll need two class functions of `UIView`:
  * [animateKeyframes(withDuration:delay:options:animations:completion:)](https://developer.apple.com/reference/uikit/uiview/1622552-animatekeyframes)
